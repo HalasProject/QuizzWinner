@@ -1,0 +1,42 @@
+Who invented the Java programming language?
+James Gosling
+Bill Gates
+Brian Kernighan
+Dennis Ritchie
+A
+Which of these is NOT a programming language?
+Verilog
+Haskell
+Lisp
+Go 
+A
+Who won the FIFA Men's World Cup in 2014?
+Argentina
+Spain
+Italy
+Germany
+D
+Who was the first president of the United States?
+Abraham Lincoln
+Benjamin Franklin
+George Washington
+Theodore Roosevelt
+C
+If you add all the natural numbers, what is the result?
+Infinity
+0
+-Infinity
+-1/12
+D
+Who is the founder of Facebook?
+Larry Page
+Steve Wozniak
+Mark Zuckerberg
+Jeff Bezos
+C
+Who won the ICC Cricket World Cup in 1975?
+West Indies
+India
+Australia
+England
+A
